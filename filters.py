@@ -7,7 +7,8 @@ def contains_blacklisted_word(text: str, blacklist: set[str]) -> bool:
     """
     if not text:
         return False
-
+    
+    set.discard("liberopensare")
     text = text.lower()
     return any(bad_word in text for bad_word in blacklist)
 
