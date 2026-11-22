@@ -24,7 +24,7 @@ It automatically detects and bans users who send offensive messages, have inappr
 -   🔐 Secure and easily configurable
 -   💡 Lightweight and easy to set up
 
-## 🚀 Technologies Used
+## 🚀 Used Technologies
 
 -   **Python 3.10+**
 -   [Aiogram 3](https://docs.aiogram.dev/) — Telegram Bot Framework (async)
